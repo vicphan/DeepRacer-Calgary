@@ -1,0 +1,19 @@
+
+[
+    {
+      "title": "Instagram",
+      "description": "@instagramusername",
+      "icon": "icon-instagram"
+    },
+    {
+      "title": "LinkedIn",
+      "description": "",
+      "icon": "icon-linkedin"
+    },
+    {
+      "title": "Github",
+      "description": "Please fork the Github repository and contribute to this theme!",
+      "icon": "icon-github",
+      "link": "https://github.com/opera7133/tella"
+    }
+]
